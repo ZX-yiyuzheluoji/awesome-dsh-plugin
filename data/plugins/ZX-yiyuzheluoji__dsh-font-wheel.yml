@@ -1,0 +1,7 @@
+url: https://github.com/ZX-yiyuzheluoji/dsh-font-wheel
+name: ZX-yiyuzheluoji/dsh-font-wheel
+category: ui
+description:
+  en: 'Hold Ctrl and scroll the mouse wheel anywhere in the workspace to change the font size by 1px per notch, through the same theme call as the built-in Ctrl+= and Ctrl+- shortcuts, so the value persists.'
+  zh: '在工作区按住 Ctrl 滚动鼠标滚轮即可调整字号，一格 1px；与自带的 Ctrl+= / Ctrl+- 走同一个主题接口，改完的字号会被持久化。'
+tarball: https://github.com/ZX-yiyuzheluoji/dsh-font-wheel/releases/download/v0.1.0/dsh-font-wheel.tgz
